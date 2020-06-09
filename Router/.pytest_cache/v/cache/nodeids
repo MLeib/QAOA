@@ -1,0 +1,4 @@
+[
+  "test_mapping.py::TestMapping::test_swap",
+  "test_mapping.py::TestMapping::test_validity"
+]

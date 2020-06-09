@@ -1,0 +1,10 @@
+[
+  "greedy_router_test.py::TestGreedyRouter::test_decrease_int_pair_distance",
+  "greedy_router_test.py::TestGreedyRouter::test_execute_all_possible_int_gates",
+  "greedy_router_test.py::TestGreedyRouter::test_greedy_pair_mapper",
+  "greedy_router_test.py::TestGreedyRouter::test_greedy_router",
+  "greedy_router_test.py::TestGreedyRouter::test_int_pair_distance",
+  "greedy_router_test.py::TestGreedyRouter::test_int_pair_distance_change",
+  "greedy_router_test.py::TestGreedyRouter::test_int_pair_mapper",
+  "greedy_router_test.py::TestGreedyRouter::test_randomized_greedy_pair_mapper"
+]
